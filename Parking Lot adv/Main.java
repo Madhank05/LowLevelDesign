@@ -3,17 +3,19 @@ public class Main{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         Parking p = new Parking(3);
-        boolean b = true;
+        boolean b=true;
         while(b){
             System.out.println("1. Available slots");
             System.out.println("2. Park Vehicle");
             System.out.println("3. Remove Vehicle");
             System.out.println("4. Search Vehicle");
             System.out.println("5. Display Vehicles in Parking");
-            System.out.println("6. exit");
+            System.out.println("6. Display Vehicle Count");
+            System.out.println("7. Nearest Available Slot");
+            System.out.println("8. exit");
             System.out.println("enter your choice : ");
             int choice = sc.nextInt();
-             sc.nextLine();
+            sc.nextLine();
             switch(choice){
                 case 1:
                     p.freeSlots();
@@ -23,7 +25,9 @@ public class Main{
                     String vno = sc.nextLine();
                     System.out.println("Enter the Owner : ");
                     String owner = sc.nextLine();
-                    p.parkVehicle(vno,owner);
+                    System.out.println("Enter the Type : ");
+                    String type = sc.nextLine();
+                    p.parkVehicle(vno,owner,type);
                     break;
                 case 3:
                      System.out.println("Enter the Vehicle Number : ");
@@ -39,6 +43,12 @@ public class Main{
                     p.display();
                     break;
                 case 6:
+                    p.vehicleCount();
+                    break;
+                case 7:
+                    p.nearestSlot();
+                    break;
+                case 8:
                     b=false;
                     break;
             }
