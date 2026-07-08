@@ -1,0 +1,125 @@
+1. Available slots
+2. Park Vehicle
+3. Remove Vehicle
+4. Search Vehicle
+5. Display Vehicles in Parking
+6. exit
+enter your choice : 
+1
+Available slots
+Available Slot : 1
+Available Slot : 2
+Available Slot : 3
+1. Available slots
+2. Park Vehicle
+3. Remove Vehicle
+4. Search Vehicle
+5. Display Vehicles in Parking
+6. exit
+enter your choice : 
+2
+Enter the Vehicle Number : 
+TN 47 CZ 9570
+Enter the Owner : 
+Madhan Kumar M
+vehicle parked successfully
+1. Available slots
+2. Park Vehicle
+3. Remove Vehicle
+4. Search Vehicle
+5. Display Vehicles in Parking
+6. exit
+enter your choice : 
+5
+Vehicles in parking lot
+Vehicle No : TN 47 CZ 9570 | Owner : Madhan Kumar M | slot : 1
+1. Available slots
+2. Park Vehicle
+3. Remove Vehicle
+4. Search Vehicle
+5. Display Vehicles in Parking
+6. exit
+enter your choice : 
+4
+Enter the Vehicle Number : 
+TN 47 CZ 9570
+Vehicle No : TN 47 CZ 9570 | Owner : Madhan Kumar M | slot : 1
+1. Available slots
+2. Park Vehicle
+3. Remove Vehicle
+4. Search Vehicle
+5. Display Vehicles in Parking
+6. exit
+enter your choice : 
+2            
+Enter the Vehicle Number : 
+Tn 41 AZ 2005
+Enter the Owner : 
+gokila 
+vehicle parked successfully
+1. Available slots
+2. Park Vehicle
+3. Remove Vehicle
+4. Search Vehicle
+5. Display Vehicles in Parking
+6. exit
+enter your choice : 
+2
+Enter the Vehicle Number : 
+Tn 36 CZ 2006
+Enter the Owner : 
+sahana
+vehicle parked successfully
+1. Available slots
+2. Park Vehicle
+3. Remove Vehicle
+4. Search Vehicle
+5. Display Vehicles in Parking
+6. exit
+enter your choice : 
+5
+Vehicles in parking lot
+Vehicle No : Tn 36 CZ 2006 | Owner : sahana | slot : 3
+Vehicle No : TN 47 CZ 9570 | Owner : Madhan Kumar M | slot : 1
+Vehicle No : Tn 41 AZ 2005 | Owner : gokila  | slot : 2
+1. Available slots
+2. Park Vehicle
+3. Remove Vehicle
+4. Search Vehicle
+5. Display Vehicles in Parking
+6. exit
+enter your choice : 
+2
+Enter the Vehicle Number : 
+TN 66 SR 2209
+Enter the Owner : 
+Bala  
+Parking filled
+1. Available slots
+2. Park Vehicle
+3. Remove Vehicle
+4. Search Vehicle
+5. Display Vehicles in Parking
+6. exit
+enter your choice : 
+3
+Enter the Vehicle Number : 
+TN 47 CZ 9570
+Vehicle removed successfully
+1. Available slots
+2. Park Vehicle
+3. Remove Vehicle
+4. Search Vehicle
+5. Display Vehicles in Parking
+6. exit
+enter your choice : 
+5
+Vehicles in parking lot
+Vehicle No : Tn 36 CZ 2006 | Owner : sahana | slot : 3
+Vehicle No : Tn 41 AZ 2005 | Owner : gokila  | slot : 2
+1. Available slots
+2. Park Vehicle
+3. Remove Vehicle
+4. Search Vehicle
+5. Display Vehicles in Parking
+6. exit
