@@ -1,0 +1,98 @@
+Enter the No of Flights : 
+2
+1. Book Ticket
+2. Cancel Ticket
+3. Display fight details
+4. exit
+Enter you choice : 
+1
+Enter the flight id : 
+1
+Enter no of tickets  : 
+5
+Ticket booked Successfully
+Passenger ID : 1 | Tickets Booked : 5 | Price : 25000
+1. Book Ticket
+2. Cancel Ticket
+3. Display fight details
+4. exit
+Enter you choice : 
+3
+Enter the flight id : 
+1
+Flight Id : 1 | Available Seats : 45 | Ticket fare per Seat : 6000
+Passenger Details
+Passenger ID : 1 | Tickets Booked : 5 | Price : 25000
+1. Book Ticket
+2. Cancel Ticket
+3. Display fight details
+4. exit
+Enter you choice : 
+1
+Enter the flight id : 
+3
+Invalid Flight Id
+1. Book Ticket
+2. Cancel Ticket
+3. Display fight details
+4. exit
+Enter you choice : 
+1
+Enter the flight id : 
+1
+Enter no of tickets  : 
+3
+Ticket booked Successfully
+Passenger ID : 2 | Tickets Booked : 3 | Price : 18000
+1. Book Ticket
+2. Cancel Ticket
+3. Display fight details
+4. exit
+Enter you choice : 
+3
+Enter the flight id : 
+1
+Flight Id : 1 | Available Seats : 42 | Ticket fare per Seat : 6600
+Passenger Details
+Passenger ID : 1 | Tickets Booked : 5 | Price : 25000
+Passenger ID : 2 | Tickets Booked : 3 | Price : 18000
+1. Book Ticket
+2. Cancel Ticket
+3. Display fight details
+4. exit
+Enter you choice : 
+2
+Enter the flight id : 
+1
+Enter the Passenger Id : 
+1
+Ticket Cancelled Successfully
+Passenger Id : 1 | Passenger Count : 5 | Your refund Amount : 25000
+1. Book Ticket
+2. Cancel Ticket
+3. Display fight details
+4. exit
+Enter you choice : 
+3
+Enter the flight id : 
+1
+Flight Id : 1 | Available Seats : 47 | Ticket fare per Seat : 5600
+Passenger Details
+Passenger ID : 2 | Tickets Booked : 3 | Price : 18000
+1. Book Ticket
+2. Cancel Ticket
+3. Display fight details
+4. exit
+Enter you choice : 
+2
+Enter the flight id : 
+1
+Enter the Passenger Id : 
+3
+Passenger Not Found
+1. Book Ticket
+2. Cancel Ticket
+3. Display fight details
+4. exit
+Enter you choice : 
+4
